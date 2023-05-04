@@ -1,3 +1,76 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+.body-main {
+    background-color: #31452C;
+}
+
+.section-second {
+    background-color: #F4E6CC;
+}
+
+.btn-main {
+    background-color: #E4A75C;
+    border-radius: 3px;
+    padding: 7px 22px;
+}
+
+.btn-main:hover {
+    background-color: #d8923d;
+}
+
+.text-hover:hover {
+    color: #86B73F;
+}
+
+.text-second {
+    color: #4F4E4E;
+    ;
+}
+
+.badge-main {
+    background-color: #89937C;
+    padding: 5px 18px;
+    color: #FFFFFF;
+}
+
+.badge-second {
+    background-color: #6E402B;
+    padding: 5px 20px;
+    border-radius: 15px;
+    color: #FFFFFF;
+}
+
+.container-product {
+    background-color: #b1b1b1;
+    border-radius: 10px;
+}
+
+.btn-second {
+    background-color: #E4A75C;
+    border-radius: 3px;
+    padding: 10px 22px;
+    color: #411111;
+    ;
+}
+
+.btn-second:hover {
+    background-color: #d8923d;
+    color: #000000;
+    ;
+}
+
+.dot-modify {
+    background-color: #717967;
+    padding: 6px 8px;
+    color: #FFFFFF;
+}
+
+.-mt-98 {
+    margin-top: -27rem;
+}
+
+
